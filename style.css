@@ -3,7 +3,7 @@
        }
        
        header {
-            background-color: #cea8e7;
+            background-color: #667f9e;
             color: #413040;
             text-align: center;
            
@@ -12,8 +12,8 @@
         }
 
         main {
-            background-color: #cd80e0;
-            color: #241a27;
+            background-color: #141615fb;
+            color: #e4ecec;
            
             margin: 0 auto;
             padding: 16px;
